@@ -1,0 +1,3 @@
+C:/kolia/graph/ComputerGraphicsApplication/ComputerGraphicsApplication/cmake-build-debug/CMakeFiles/graphicsproj.dir
+C:/kolia/graph/ComputerGraphicsApplication/ComputerGraphicsApplication/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/kolia/graph/ComputerGraphicsApplication/ComputerGraphicsApplication/cmake-build-debug/CMakeFiles/rebuild_cache.dir

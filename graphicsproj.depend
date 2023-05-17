@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1683637239 source:d:\malak\pictures\ass3\graphicsproj\main.cpp
+	<Windows.h>
+	<tchar.h>
+	<bits/stdc++.h>
+
